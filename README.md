@@ -1,2 +1,3 @@
 # ListaDeTarefas_React
-Created with CodeSandbox
+
+Link para o projeto [aqui](https://jlngr4.csb.app/)
